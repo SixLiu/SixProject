@@ -1,0 +1,15 @@
+{
+	"appname": "SixProject",
+	"scope": "FullAccess",
+	"clientid": "8CAC188C-D534-4ED9-8619-FE2E7BD4BF32",
+	"buyerid": "abc123123",
+	"catalogid": "abc123123",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
